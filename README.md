@@ -46,12 +46,7 @@
   </a>
 </p>
 
-<div align="center">
 
-##
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![Monisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=moniisha1123&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moniisha1123&layout=compact&theme=radical) |
 
 </div>
 
