@@ -14,22 +14,7 @@
 ##
 
 
-## 🛠 Languages and Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="animation: bounce 2s infinite;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="animation: bounce 2s infinite; animation-delay: 0.1s;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="animation: bounce 2s infinite; animation-delay: 0.2s;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="animation: bounce 2s infinite; animation-delay: 0.3s;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="animation: bounce 2s infinite; animation-delay: 0.4s;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="animation: bounce 2s infinite; animation-delay: 0.5s;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="animation: bounce 2s infinite; animation-delay: 0.6s;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="animation: bounce 2s infinite; animation-delay: 0.7s;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="animation: bounce 2s infinite; animation-delay: 0.8s;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" style="animation: bounce 2s infinite; animation-delay: 0.9s;"/>
-</p>
 
 
 ## 📫 Connect with me  
